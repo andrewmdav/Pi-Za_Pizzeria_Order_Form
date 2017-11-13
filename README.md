@@ -11,7 +11,7 @@ Listed below are the primary files to focus on for running the project and code 
 	
 	-Solution File: 		Phase 4 Pizza Project.sln
 	-Order Form Code:		OrderForm.cs
-    	-Credit Card Form Code:		CreditCardForm.cs
+-Credit Card Form Code:		CreditCardForm.cs
 	-Customer Class Code:		CustomerClass.cs
 
 Detailed Description:<br>
