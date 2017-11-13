@@ -949,7 +949,7 @@
             // picLogo
             // 
             this.picLogo.Image = ((System.Drawing.Image)(resources.GetObject("picLogo.Image")));
-            this.picLogo.Location = new System.Drawing.Point(20, 112);
+            this.picLogo.Location = new System.Drawing.Point(20, 102);
             this.picLogo.Name = "picLogo";
             this.picLogo.Size = new System.Drawing.Size(333, 198);
             this.picLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
