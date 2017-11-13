@@ -1,0 +1,9 @@
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\bin\Debug\Phase 1 Pizza Project.exe.config
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\obj\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\obj\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\bin\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\bin\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\obj\Debug\Phase 3 Pizza Project.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\obj\Debug\Phase_1_Pizza_Project.frmOrderForm.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\obj\Debug\Phase_1_Pizza_Project.Properties.Resources.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 3 Pizza Project\obj\Debug\Phase 3 Pizza Project.csproj.GenerateResource.Cache

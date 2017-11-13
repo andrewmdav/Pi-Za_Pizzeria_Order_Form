@@ -1,0 +1,48 @@
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\bin\Debug\Phase 1 Pizza Project.exe.config
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\bin\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\bin\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase_1_Pizza_Project.frmOrderForm.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase_1_Pizza_Project.Properties.Resources.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase_1_Pizza_Project.frmCreditCard.resources
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csproj.ResolveComReference.cache
+C:\Users\Andrew\Documents\HTC\CCIS 2575 - .NET\Visual Studio Projects\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\bin\Debug\Phase 1 Pizza Project.exe.config
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\bin\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\bin\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csproj.ResolveComReference.cache
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase_1_Pizza_Project.Properties.Resources.resources
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csproj.GenerateResource.Cache
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase 4 Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase_4_Pizza_Project.frmOrderForm.resources
+C:\Users\Andrew\Documents\Professional\GitHub Update\Projects for Posting\Phase 4 Pizza Project\obj\Debug\Phase_4_Pizza_Project.frmCreditCard.resources
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\bin\Debug\Phase 1 Pizza Project.exe.config
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\bin\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\bin\Debug\Phase 1 Pizza Project.pdb
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\bin\Debug\Interop.WMPLib.dll
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase 4 Pizza Project.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Interop.WMPLib.dll
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase 4 Pizza Project.csproj.ResolveComReference.cache
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase_4_Pizza_Project.frmOrderForm.resources
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase_4_Pizza_Project.frmCreditCard.resources
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase_1_Pizza_Project.Properties.Resources.resources
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase 4 Pizza Project.csproj.GenerateResource.Cache
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase 4 Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase 1 Pizza Project.exe
+C:\Users\Andrew\Source\Repos\Pi-Za_Pizza_Order_Form\Pi-Za Pizzeria Order Form\obj\Debug\Phase 1 Pizza Project.pdb
